@@ -1,0 +1,87 @@
+[
+  {
+    "tld": "ebayimg.com",
+    "requests": 92,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "ebaystatic.com",
+    "requests": 29,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "doubleclick.net",
+    "requests": 10,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "criteo.com",
+    "requests": 6,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "pinterest.com",
+    "requests": 6,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "google.com",
+    "requests": 5,
+    "purpose": "Various services, e.g., reCAPTCHA, APIs"
+  },
+  {
+    "tld": "snapchat.com",
+    "requests": 5,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "googletagmanager.com",
+    "requests": 3,
+    "purpose": "Tag management for marketing and analytics"
+  },
+  {
+    "tld": "amplitude.com",
+    "requests": 3,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "ebayrtm.com",
+    "requests": 2,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "pinimg.com",
+    "requests": 2,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "ebayadservices.com",
+    "requests": 1,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "amazonaws.com",
+    "requests": 1,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "yahoo.com",
+    "requests": 1,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "facebook.net",
+    "requests": 1,
+    "purpose": "Facebook plugins and ad tracking"
+  },
+  {
+    "tld": "sc-static.net",
+    "requests": 1,
+    "purpose": "Unknown"
+  },
+  {
+    "tld": "googleadservices.com",
+    "requests": 1,
+    "purpose": "Unknown"
+  }
+]
